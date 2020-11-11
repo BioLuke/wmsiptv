@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:CT HD
+https://tvstream2.wms.cz/LIVE_archive168_nodrm/633250_CTHD_mobile.stream/manifest.mpd?wtokenstarttime=0&wtokenendtime=1605065134&wtokenclientid=V3J4p2JxgHY_f3DDFCt1QA==&wtokenhash=_O6Nya0MMS1glHDSGMmjwgCYK2pGuCwfo7OsDBFDWYI=
+#EXTINF:CT2
+https://tvstream2.wms.cz/LIVE_archive168_nodrm/633251_CT2_mobile.stream/manifest.mpd?wtokenstarttime=0&wtokenendtime=1605065213&wtokenclientid=V3J4p2JxgHY_f3DDFCt1QA==&wtokenhash=eYQ3QaeVD5EMB8i0wnn7uExVbnvAjViwf6bkUEs9erQ=
+#EXTINF:CT24
+https://tvstream2.wms.cz/LIVE_archive168_nodrm/632168_CT24_mobile.stream/manifest.mpd?wtokenstarttime=0&wtokenendtime=1605064349&wtokenclientid=V3J4p2JxgHY_f3DDFCt1QA==&wtokenhash=Ff1EDmySnv5t1R0hi8Eke__MWo7YBGDd49qcfOMhz0I=
